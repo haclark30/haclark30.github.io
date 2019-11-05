@@ -4,7 +4,10 @@
 Madison, WI | 715-571-0737 | haclark30@gmail.com
 
 # Education
-## BSc - Computer Science, University of Wisconsin - Madison (Expected Winter 2020)
+**University of Wisconsin - Madison**
+BSc in Computer Science
+*Expected to graducate in December 2020*
+Coursework thus far has included object oriented programming, data structures, compilers, and algorithm design.
 
 # Work Experience
 
@@ -20,6 +23,7 @@ Madison, WI | 715-571-0737 | haclark30@gmail.com
 ### IT Production Support Analyst, AIG Travel
 
 - Responsible for the availability of production systems and applications, including customer-facing websites, business-to-business APIs, and internal desktop applications.
+- 
 - Automated manual website testing process using Python and Selenium.
 
 ## September 2011 - August 2014
