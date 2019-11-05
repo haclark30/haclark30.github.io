@@ -21,8 +21,8 @@ Application Performance Monitoring Specialist, AIG Travel
 *October 2018 - Present*
 - Responsible for the administration of AppDynamics, an Application Performance Monitoring tool.
 - Explore source code for applications to determine methods for fine-tuning performance metrics captured by AppDynamics.
-- Integrate new technologies into the AppDynamics platform to keep all monitoring and alerts in one place.
-- Use AppDynamics to develop powerful business metrics for real-time monitoring.
+- Integrated new technologies into the AppDynamics platform to keep all monitoring and alerts in one place.
+- Used AppDynamics to develop powerful business metrics for real-time monitoring.
 - Wrote custom Powershell modules for automating and standardizing the deployment and configuration of AppDynamics.
 
 **AIG Travel, Stevens Point, WI**  
@@ -31,7 +31,7 @@ IT Production Support Analyst
 
 - Responsible for the availability of production systems and applications, including customer-facing websites, business-to-business APIs, and internal desktop applications.
 - 
-- Automated manual website testing process using Python and Selenium.
+- Automated a manual website testing process using Python and Selenium.
 
 **Library Technology Group, University of Wisconsin - Madison**  
 IT Help Desk Technician  
