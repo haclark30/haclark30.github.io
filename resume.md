@@ -6,12 +6,12 @@ Madison, WI | 715-571-0737 | haclark30@gmail.com
 
 # Education
 **University of Wisconsin - Madison**  
-BSc in Computer Science  
+Bachelor of Science in Computer Science  
 *Returned in 2018, expected to graduate in December 2020*  
 Coursework thus far has included object oriented programming, data structures, compilers, and algorithm design.
 
 **University of Wisconsin - Madison**  
-BSc in Computer Science  
+Bachelor of Science in Computer Science   
 *2010 - 2014* - Partially completed degree program.
 
 # Work Experience
@@ -20,18 +20,20 @@ BSc in Computer Science
 Application Performance Monitoring Specialist, AIG Travel  
 *October 2018 - Present*
 - Responsible for the administration of AppDynamics, an Application Performance Monitoring tool.
-- Explore source code for applications to determine methods for fine-tuning performance metrics captured by AppDynamics.
-- Integrated new technologies into the AppDynamics platform to keep all monitoring and alerts in one place.
+- Explore source code for applications to determine methods for fine-tuning performance and business metrics captured by AppDynamics.
+- Integrated different technologies into the AppDynamics platform to keep monitoring and alerts in one place. Examples include IBM Datapower and Alachisoft NCache. Currently working on integrations with ServiceNow and F5 BIG-IP load balancers.
 - Used AppDynamics to develop powerful business metrics for real-time monitoring.
-- Wrote custom Powershell modules for automating and standardizing the deployment and configuration of AppDynamics.
+- Worked on a major partner onboarding project to ensure their integration was well monitored. This monitoring has caught numerous issues on the partner's end before they were even aware of it.
+- Wrote custom Powershell modules for standardizing the deployment and configuration of AppDynamics agents.
 
 **AIG Travel, Stevens Point, WI**  
 IT Production Support Analyst  
 *November 2014 - October 2018*
 
 - Responsible for the availability of production systems and applications, including customer-facing websites, business-to-business APIs, and internal desktop applications.
-- 
-- Automated a manual website testing process using Python and Selenium.
+- Daily duties included monitoring a ticket queue for new incidents, quickly diagnosing and either triaging to other support groups or following internal proccesses to resolve the issue.
+- Automated a manual website testing process using Python and Selenium. Scripts written for this were eventually ported to the AppDynamics Synthetic Monitoring product.
+- Site lead for a company-wide project to upgrade all workstations from Windows XP to Windows 7.
 
 **Library Technology Group, University of Wisconsin - Madison**  
 IT Help Desk Technician  
@@ -39,6 +41,7 @@ IT Help Desk Technician
 - Help library staff and patrons with access to technological resoureses across more than 30 libraries.
 - Diagnose and fix problems with computers, printers and access to digital resouces via telephone, e-mail and a walk-in help desk.
 - Created and maintained documentation on diagnostic and repair techniques utilized by fellow employees.
+- Acted as the student lead on a project to upgrade all library workstations from Windows XP to Windows 7.
 - In the final year, responsible for training new help desk technicians in troubleshooting techniques, customer service, basic IT concepts, and other skills needed to succeed.
 
 # Technical Skills and Programming Languages
