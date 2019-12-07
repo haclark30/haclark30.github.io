@@ -9,11 +9,20 @@ namespace ResumeMdToHtml
     {
         static void Main(string[] args)
         {
-            string path = @"..\..\..\..\..\resume.md";
-            var markdown = File.ReadAllText(path);
+            string mdPath = @"..\..\..\..\..\resume.md";
+            string templatePath = @"..\..\..\..\..\resume_template.html";
+            string resumePath = @"..\..\..\..\..\resume.html";
+
+            string replacementString = "{{body}}";
+
+            var markdown = File.ReadAllText(mdPath);
+            var htmlTemplate = File.ReadAllText(templatePath);
+
             var html = Parse(markdown);
-            File.WriteAllText(@"..\..\..\..\..\resume.html", html, Encoding.UTF8);
-            //Console.WriteLine(html);
+
+            string resumeHTML = htmlTemplate.Replace(replacementString, html);
+            File.WriteAllText(resumePath, resumeHTML, Encoding.UTF8);
+            //Console.WriteLine(resumeHTML);
         }
 
         public static string Parse(string markdown)
