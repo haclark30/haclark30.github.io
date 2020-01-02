@@ -20,14 +20,9 @@ Bachelor of Science in Computer Science
 Application Performance Monitoring Specialist, AIG Travel  
 *October 2018 - Present*
 - Responsible for the administration of AppDynamics, an Application Performance Monitoring tool.
-- Explore source code for applications to determine methods for fine-tuning performance and business metrics captured by AppDynamics.
-- (Nick) Analyzed application source code to fine tune metrics captured by AppDynamics.
-- Integrated different technologies into the AppDynamics platform to keep monitoring and alerts in one place. Examples include IBM Datapower and Alachisoft NCache. Currently working on integrations with ServiceNow and F5 BIG-IP load balancers.
-- (Nick) Integrated different technologies into the AppDynamics platform including IBM DataPower, Alachisoft NCache, ServiceNow and F5 BIG-IP load balancers.
-- Used AppDynamics to develop powerful business metrics for real-time monitoring.
-- (Nick) this seems repetative, either cut this or find a way to incorporate in the other bullet points
-- Worked on a major partner onboarding project to ensure their integration was well monitored. This monitoring has caught numerous issues on the partner's end before they were even aware of it.
-- (Nick) be more specific than 'worked'.  What did you do and what was the impact?
+- Analyzed application source code to fine tune metrics captured by AppDynamics.
+- Integrated different technologies into the AppDynamics platform including IBM DataPower, Alachisoft NCache, ServiceNow and F5 BIG-IP load balancers.
+- Developed business and performance metrics for a major partner onboarding project to ensure their integration was well monitored. This monitoring has caught numerous issues on the partner's end before they were even aware of it.
 - Wrote custom Powershell modules for standardizing the deployment and configuration of AppDynamics agents.
 
 **AIG Travel, Stevens Point, WI**  
@@ -46,11 +41,9 @@ IT Help Desk Technician
 - Diagnosed and fixed problems with computers, printers and access to digital resouces via telephone, e-mail and a walk-in help desk.
 - Created and maintained documentation on diagnostic and repair techniques used by fellow employees.
 - Acted as the student lead on a project to upgrade all library workstations from Windows XP to Windows 7.
-- In the final year, responsible for training new help desk technicians in troubleshooting techniques, customer service, basic IT concepts, and other skills needed to succeed.
-- (Nick) Trained new help desk technicians in troubleshooting techniques, customer service, and basic IT concepts.
+- Trained new help desk technicians in troubleshooting techniques, customer service, and basic IT concepts.
 
 # Technical Skills and Programming Languages
-- Programming Languages (in order of familiarity): Java, Powershell, Python, HTML/CSS, C#
+- Programming Languages: Java, Powershell, Python, HTML/CSS, C#
 - Source Control: Git, TFS/Azure DevOps
-- Windows System Administration
-- (Nick) Other technologies worth mentioning?  Ex: Selenium
+- Other: Windows System Administration, Selenium, AppDynamics, ServiceNow
