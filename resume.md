@@ -1,4 +1,4 @@
-Madison, WI | 715-571-0737 | haclark30@gmail.com
+### Madison, WI | 715-571-0737 | haclark30@gmail.com
 # Harrison Clark
 ## Computer Science Student and Aspiring Software Developer
 - I have spent the last 5 years in the IT Support field, but now looking to transition to a software development role.
