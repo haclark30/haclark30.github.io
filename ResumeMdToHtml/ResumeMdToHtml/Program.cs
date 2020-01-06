@@ -9,9 +9,9 @@ namespace ResumeMdToHtml
     {
         static void Main(string[] args)
         {
-            string mdPath = @"..\..\..\..\..\resume.md";
-            string templatePath = @"..\..\..\..\..\resume_template.html";
-            string resumePath = @"..\..\..\..\..\resume.html";
+            string mdPath = @"..\..\resume.md";
+            string templatePath = @"..\..\resume_template.html";
+            string resumePath = @"..\..\resume.html";
 
             string replacementString = "{{body}}";
 
