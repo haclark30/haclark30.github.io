@@ -32,7 +32,7 @@ IT Production Support Analyst
 - Responsible for the availability of production systems and applications including customer-facing websites, business-to-business APIs, and internal desktop applications.
 - Daily duties included monitoring a ticket queue for new incidents, quickly diagnosing and either triaging to other support groups or following internal proccesses to resolve the issue.
 - Automated a manual website testing process using Python and Selenium. Scripts written for this were eventually integrated to the AppDynamics Synthetic Monitoring product.
-- Acted as Site lead for a company-wide project to upgrade all workstations from Windows XP to Windows 7.
+- Acted as site lead for a company-wide project to upgrade all workstations from Windows XP to Windows 7.
 
 **Library Technology Group, University of Wisconsin - Madison**  
 IT Help Desk Technician  
