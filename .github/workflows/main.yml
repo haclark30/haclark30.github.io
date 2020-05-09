@@ -7,6 +7,7 @@ name: CreatePDF
 on:
   push:
     branches: [ master ]
+    
   pull_request:
     branches: [ master ]
 
@@ -36,11 +37,14 @@ jobs:
         # (File) The location of the CSS file you want to use as the code snipped highlight theme
         # (File) The location of the HTML/Mustache file you want to use as the HTML template
           
-          
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v2
+    - name: Commit files
+      run:
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Add changes" -a
+  
+    - name: GitHub Push
+      uses: ad-m/github-push-action@v0.5.0
       with:
-        # Artifact name
-        name: docs
-        # A file, directory or wildcard pattern that describes what to upload
-        path: pdfs
+        # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
