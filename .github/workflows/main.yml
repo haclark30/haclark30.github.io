@@ -22,6 +22,11 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
+
+    - name: Copy files
+      run: |
+        mkdir doc
+        cp index.md doc/resume.md
     
     - name: Create PDF and HTML
       uses: BaileyJM02/markdown-to-pdf@v1.0.0
