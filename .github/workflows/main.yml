@@ -46,8 +46,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Add changes" -a
+        git add pdfs/*
+        git commit -m "Update PDF" -a
   
     - name: GitHub Push
       uses: ad-m/github-push-action@v0.5.0
