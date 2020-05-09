@@ -38,7 +38,7 @@ jobs:
         # (File) The location of the HTML/Mustache file you want to use as the HTML template
           
     - name: Commit files
-      run:
+      run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "Add changes" -a
