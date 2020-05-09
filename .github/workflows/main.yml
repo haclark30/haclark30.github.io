@@ -27,6 +27,7 @@ jobs:
       with:
         # (Path) The location of the folder containing your .md or .markdown files
         input_dir: doc
+        output_dir: pdfs
         # (Path) The location of the folder containing your images, this should be the route of all images
         # (String) The path you use to import your images that can be replaced with the server URL
         # (Path) The location of the folder you want to place the built files
@@ -34,3 +35,12 @@ jobs:
         # (File) The location of the CSS file you want to use as the theme
         # (File) The location of the CSS file you want to use as the code snipped highlight theme
         # (File) The location of the HTML/Mustache file you want to use as the HTML template
+          
+          
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        # Artifact name
+        name: docs
+        # A file, directory or wildcard pattern that describes what to upload
+        path: pdfs
