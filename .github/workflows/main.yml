@@ -21,21 +21,16 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-
-    # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: echo Hello, world!
-
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
-        
-    - name: Create PDF
-      uses: mkrakowitzer/actions-makepdfs@1.1
+    
+    - name: Create PDF and HTML
+      uses: BaileyJM02/markdown-to-pdf@v1.0.0
       with:
-        # Location of markdown files in github repository
-        markdown_dir: ./
-        # Location to output PDF files to
-        output_dir: ./
+        # (Path) The location of the folder containing your .md or .markdown files
+        input_dir: doc
+        # (Path) The location of the folder containing your images, this should be the route of all images
+        # (String) The path you use to import your images that can be replaced with the server URL
+        # (Path) The location of the folder you want to place the built files
+        # (Boolean) Whether to also create a .html file
+        # (File) The location of the CSS file you want to use as the theme
+        # (File) The location of the CSS file you want to use as the code snipped highlight theme
+        # (File) The location of the HTML/Mustache file you want to use as the HTML template
