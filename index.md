@@ -8,7 +8,7 @@
 **University of Wisconsin - Madison**  
 Bachelor of Science in Computer Science  
 *Returned in 2018, expected to graduate in December 2020*  
-Coursework thus far has included object oriented programming, data structures, compilers, and algorithm design.
+Coursework thus far has included object oriented programming, data structures, compilers, algorithm design, operating systems, and mobile systems.
 
 **University of Wisconsin - Madison**  
 Bachelor of Science in Computer Science   
@@ -44,6 +44,6 @@ IT Help Desk Technician
 - Trained new help desk technicians in troubleshooting techniques, customer service, and basic IT concepts.
 
 # Technical Skills and Programming Languages
-- Programming Languages: Java, Powershell, Python, HTML/CSS, C#
+- Programming Languages: Java, Powershell, Python, HTML/CSS, C, C#
 - Source Control: Git, TFS/Azure DevOps
-- Other: Windows System Administration, Selenium, AppDynamics, ServiceNow
+- Other: Android, Windows System Administration, Selenium, AppDynamics, ServiceNow
