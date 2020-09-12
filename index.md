@@ -6,7 +6,7 @@
 **University of Wisconsin - Madison** | Madison, WI\
 Bachelor of Science - Computer Science  | December 2020
 
-**Related Courses**
+**Related Courses**\
 Object-oriented Programming, Data Structures, Compilers, Algorithm Design, Operating Systems, and Mobile Systems.
 
 ## Work Experience
