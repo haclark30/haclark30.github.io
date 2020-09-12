@@ -42,6 +42,9 @@ jobs:
     #     # (File) The location of the CSS file you want to use as the code snipped highlight theme
     #     # (File) The location of the HTML/Mustache file you want to use as the HTML template
 
+    - name: Install wkhtmltopdf
+      run: sudo apt-get install xvfb libfontconfig wkhtmltopdf
+
     - name: Create PDF via PanDoc
       uses: docker://pandoc/core:2.9
       with:
