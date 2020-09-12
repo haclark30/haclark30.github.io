@@ -37,7 +37,7 @@ jobs:
         pandoc-version: '2.7.3'
 
     - name: Run PanDoc
-      run: pandoc -s -t html -V margin-top=10 -V margin-left=10 -V margin-right=10 -V margin-bottom=10 -c pandoc.css index.md -o pdfs/resume.pdf
+      run: pandoc -s -t html -V margin-top=10 -V margin-left=10 -V margin-right=10 -V margin-bottom=10 -c pandoc.css index.md -o pdfs/resume.pdf --metadata pagetitle="Harrison Clark | Resume"
 
     # - name: Create PDF via PanDoc
     #   uses: docker://pandoc/core:2.9
