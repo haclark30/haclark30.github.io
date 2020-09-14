@@ -7,7 +7,7 @@
 Bachelor of Science - Computer Science  | December 2020
 
 **Related Courses**\
-Object-oriented Programming, Data Structures, Compilers, Algorithm Design, Operating Systems, and Mobile Systems.
+Object-oriented Programming, Data Structures, Compilers, Algorithm Design, Operating Systems, Mobile Systems, Databases, and Artificial Intelligence
 
 ## Work Experience
 
@@ -27,6 +27,7 @@ IT Production Support Analyst (full-time)\
 
 - Supported production systems and applications to ensure their availability to customers, employees, and business partners
 - Diagnosed IT incidents to either triage to other support groups or follow internal processes to resolve the issue
+- Wrote incident reports detailing the cause and business impact of IT outages for senior management
 - Automated a manual website testing process using Python and Selenium
 - Acted as site lead for a company-wide project to upgrade all workstations from Windows XP to Windows 7
 
@@ -41,6 +42,6 @@ IT Help Desk Technician\
 - Trained new help desk technicians in troubleshooting techniques, customer service, and basic IT concepts
 
 ## Programming Languages and Technical Skills
-- **Programming Languages**: Java, Powershell, Python, HTML/CSS, C, C#
+- **Programming Languages**: Java, Powershell, Python, SQL, HTML/CSS, C, C#
 - **Source Control**: Git, TFS/Azure DevOps
 - **Other**: Android, Windows System Administration, Selenium, AppDynamics, ServiceNow
