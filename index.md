@@ -1,5 +1,5 @@
 # Harrison Clark
-#### Madison, WI | 715-571-0737 | hjclark@wisc.edu
+#### Madison, WI | 715-571-0737 | haclark30@gmail.com
 #### [github.com/haclark30](https://github.com/haclark30)
 
 ## Education
